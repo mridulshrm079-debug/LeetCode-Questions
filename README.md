@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
