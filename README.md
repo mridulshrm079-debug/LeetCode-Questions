@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0392-is-subsequence) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
