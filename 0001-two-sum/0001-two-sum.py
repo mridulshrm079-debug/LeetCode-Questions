@@ -1,10 +1,11 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        dict = {}
+        check = {}
         for i in range(len(nums)):
-            if target - nums[i] in dict:
-                return i, dict[target - nums[i]]
+            if target - nums[i] in check:
+                return check[target - nums[i]], i
             else:
-                dict[nums[i]] = i
-                
+                check[nums[i]] = i
+
+
         
