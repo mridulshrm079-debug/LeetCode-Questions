@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
