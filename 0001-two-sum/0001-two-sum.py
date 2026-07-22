@@ -1,11 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        check = {}
+        hashmap = {}
+
         for i in range(len(nums)):
-            if target - nums[i] in check:
-                return check[target - nums[i]], i
+            if target - nums[i] in hashmap:
+                return hashmap[target - nums[i]], i
             else:
-                check[nums[i]] = i
-
-
-        
+                hashmap[nums[i]] = i
