@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
