@@ -1,22 +1,24 @@
 class Solution(object):
     def subarraySum(self, nums, k):
-        count = 0
-        sum = 0
-        prefix_sum = []
+        total = 0
+        new = []
+        ans = 0
+
+        hashmap = {0:1}
         for i in nums:
-            sum = sum + i
-            prefix_sum.append(sum)
+            total = total + i
+            new.append(total)
 
-        check = {0:1}
+        for i in new:
+            if i - k in hashmap:
+                ans = ans + hashmap[i - k]
 
-        for i in prefix_sum:
-            if i - k in check:
-                count = count + check[i-k]
-            
-            if i in check:
-                check[i] = check[i] + 1
+            if i in hashmap:
+                hashmap[i] = hashmap[i] + 1 
             else:
-                check[i] = 1
+                hashmap[i] = 1
 
-        return count
+        return ans
+
+
         
