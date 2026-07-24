@@ -6,13 +6,13 @@
 
 class Solution(object):
     def hasCycle(self, head):
-        list = []
+        visit = set()
         curr = head
         while curr:
-            if curr.next in list:
+            if curr in visit:
                 return True
             else:
-                list.append(curr.next)
+                visit.add(curr)
 
             curr = curr.next
 
