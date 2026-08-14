@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
