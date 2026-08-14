@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
