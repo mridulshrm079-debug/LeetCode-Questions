@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Union-Find
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Queue
 |  |
