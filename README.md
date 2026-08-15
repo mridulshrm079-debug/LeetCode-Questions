@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
