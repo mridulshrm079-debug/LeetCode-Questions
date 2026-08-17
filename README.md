@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -209,8 +213,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1025-divisor-game) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
