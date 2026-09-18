@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
