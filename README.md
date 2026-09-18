@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
