@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -195,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
