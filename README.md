@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1563-stone-game-v) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1025-divisor-game) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
