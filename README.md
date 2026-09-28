@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/mridulshrm079-debug/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
